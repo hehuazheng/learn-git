@@ -4,3 +4,5 @@
 上传代码到远程仓库
 #git push -u origin master
 
+查看已经merge的分支
+#git branch --merged
